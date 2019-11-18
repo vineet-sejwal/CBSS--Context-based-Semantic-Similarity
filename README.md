@@ -13,4 +13,4 @@ This python program extracted the data from movie data sources. You need to prov
 
 ## DBpedia_Data.py
 This python program extract the contextual features of movies from DBpedia (nucleus of LOD). You need to provide the URI of movie
-and this program returns <propoerty, value> pair. We have extracted the subjective information, you need to change the property name for new features.
+and this program returns <property, value> pair. We have extracted the subjective information, you need to change the property name for new features.
